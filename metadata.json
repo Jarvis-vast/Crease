@@ -1,0 +1,8 @@
+{
+  "name": "Crease",
+  "description": "Professional cricket intelligence and analytics platform with scorecard upload OCR extraction, player stats, match centers, comparisons, and exportable reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
